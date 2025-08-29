@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=720&lines=Welcome+to+the+Web+Programming+with+Java+Technology+Repository!;Student%3A+Nguy%E1%BB%85n+Hu%E1%BB%B3nh+Th%E1%BA%BF+B%E1%BA%A3o+%7C+Class%3A+DHKTPM18CTT;Language%3A+Java+%7C+App+Server%3A+Apache+Tomcat+%7C+VCS%3A+GitHub" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&vCenter=true&width=840&lines=Welcome+to+the+Web+Programming+with+Java+Technology+Repository!;Student%3A+Nguy%E1%BB%85n+Hu%E1%BB%B3nh+Th%E1%BA%BF+B%E1%BA%A3o+%7C+Class%3A+DHKTPM18CTT;Language%3A+Java+%7C+App+Server%3A+Apache+Tomcat+%7C+VCS%3A+GitHub" alt="typing"/>
 </p>
 
 <p align="center">
