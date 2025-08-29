@@ -11,7 +11,7 @@
   <a href="#-technologies"><img src="https://img.shields.io/badge/Java-17+-f89820?style=for-the-badge&logo=java&logoColor=white"/></a>
   <a href="#-technologies"><img src="https://img.shields.io/badge/Tomcat-9-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/></a>
   <a href="#-git-workflow"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github"/></a>
-  <a href="#-how-to-run"><img src="https://img.shields.io/badge/Build-Maven%20%7C%20-007396?style=for-the-badge&logo=apachemaven"/></a>
+  <a href="#-how-to-run"><img src="https://img.shields.io/badge/Build-Maven%20-007396?style=for-the-badge&logo=apachemaven"/></a>
 </p>
 
 ---
