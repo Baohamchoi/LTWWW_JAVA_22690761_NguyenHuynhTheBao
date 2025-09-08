@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Đăng ký</title>
+</head>
+<body>
+<h2>Form Đăng ký</h2>
+<form action="Bai05" method="get">
+    <label>Họ tên:</label>
+    <input type="text" name="fullname" required><br><br>
+
+    <label>Email:</label>
+    <input type="email" name="email" required><br><br>
+
+    <label>Mật khẩu:</label>
+    <input type="password" name="password" required><br><br>
+
+    <label>Giới tính:</label>
+    <select name="gender">
+        <option value="Nam">Nam</option>
+        <option value="Nữ">Nữ</option>
+        <option value="Khác">Khác</option>
+    </select><br><br>
+
+    <label>Sở thích:</label><br>
+    <input type="checkbox" name="hobby" value="Thể thao">Thể thao
+    <input type="checkbox" name="hobby" value="Âm nhạc">Âm nhạc
+    <input type="checkbox" name="hobby" value="Du lịch">Du lịch
+    <input type="checkbox" name="hobby" value="Đọc sách">Đọc sách
+    <br><br>
+
+    <label>Giới thiệu bản thân:</label><br>
+    <textarea name="about" rows="4" cols="40"></textarea><br><br>
+
+    <button type="submit">Đăng ký</button>
+</form>
+</body>
+</html>
