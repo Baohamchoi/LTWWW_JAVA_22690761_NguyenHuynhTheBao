@@ -1,4 +1,4 @@
-package iuh.fit.se.tuan02_22690761_nguyenhuynhthebao;
+package iuh.fit.se.tuan02_22690761_nguyenhuynhthebao.Bai01;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "loginServlet", urlPatterns = {"/login"})
+@WebServlet(name = "loginServlet", value = {"/login"})
 public class LoginServlet extends HttpServlet {
 
     @Override
